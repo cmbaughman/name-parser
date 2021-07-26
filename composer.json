@@ -1,5 +1,5 @@
 {
-    "name": "theiconic/name-parser",
+    "name": "cmbaughman/name-parser",
     "description": "PHP library for parsing a string containing a full name into its parts",
     "type": "library",
     "license": "MIT",
@@ -14,7 +14,6 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0",
-        "php-coveralls/php-coveralls": "^2.1",
         "php-mock/php-mock-phpunit": "^2.1"
     },
     "autoload": {
